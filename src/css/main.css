@@ -88,6 +88,79 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.float_left {
+    float: left;
+}
+
+.float_right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+#menu li {
+    display: inline;
+    padding: 2em;
+}
+
+#menu {
+    font-size: 20px;
+    height: 133px;
+}
+
+#logo {
+    width: 156px;
+    height: 133px;
+    margin-bottom: 10px;
+}
+
+#title {
+    font-size: 2em;
+}
+
+#content_left {
+    background-image: url(../img/coding.jpg);
+    height: 400px;
+    width: 460px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#content_right {
+    font-size: 1.5em;
+    padding-left: 30px;
+    padding-top: 2em;
+}
+
+#skillPics li {
+    display: inline;
+    width: 20px;
+    height: 20px;
+    padding: 1em;
+    margin-bottom: 1em;
+     
+}
+
+
+
+#underFoldLeft {
+    background-image: url(../img/football.png);
+    height: 400px;
+    width: 460px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 1em;
+    margin-top: 2em;
+}
+
+
+
 
 #wrapper {
     margin-left: auto;
